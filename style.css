@@ -1,0 +1,36 @@
+.jumbotron {
+	padding-top: 8rem;
+	background-color: #0d6efd;
+}
+
+#about {
+	background-color: #f3f4f5;
+}
+
+#Education {
+	background-color: #0d6efd;
+}
+
+#SkillLanguages {
+	background-color: #f3f4f5;
+}
+
+#Achevements {
+	background-color: #0d6efd;
+}
+
+#Experiance {
+	background-color: #050305;
+}
+
+#Contact {
+	background-color: #f3f4f5;
+}
+
+#footer {
+	padding-top: 4rem;
+}
+
+section {
+	padding-top: 8rem;
+}
